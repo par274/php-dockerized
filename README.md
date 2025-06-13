@@ -2,8 +2,6 @@
 
 Run PHP applications in Docker Compose.
 
-<p align="center">It allows using MentionBB with Docker.</p>
-
 ## Contents
 - PHP 8.4
 - Nginx
