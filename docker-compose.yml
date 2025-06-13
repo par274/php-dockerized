@@ -1,0 +1,6 @@
+include:
+  - ./.docker/services/db.yml
+  - ./.docker/services/phpmyadmin.yml
+  - ./.docker/services/${SERVER}.yml
+networks:
+  php_app:
